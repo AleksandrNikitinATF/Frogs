@@ -1,4 +1,4 @@
-# 🎮Frogs
+# 🎮FrogsWinFormsApp
 Frogs game
 ## Frogs2
 Геймплэй игры
