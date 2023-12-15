@@ -1,4 +1,4 @@
-# Frogs
+# 🎮Frogs
 Frogs game
 ## Frogs2
 Геймплэй игры
