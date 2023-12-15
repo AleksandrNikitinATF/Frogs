@@ -9,3 +9,6 @@
   Пример игры:
  
 ![Video](https://github.com/AleksandrNikitinATF/Frogs/blob/main/FrogsVideo.gif)
+
+## 🔧 Техническая часть
+
